@@ -1,5 +1,15 @@
 # seb39_pre_006
 
+## 배포주소 💎
+
+<p align="justify">
+
+</p>
+# https://stunning-sopapillas-6a17de.netlify.app/ 💎
+
+<p align="center">
+
+
 <p align="center">
   <br>
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxG1zN%2FbtrLzRjAKiX%2FWeKpM4vsSHir4RUWEG6HzK%2Fimg.png">
@@ -8,14 +18,6 @@
 
 목차
 
-## 배포주소
-
-<p align="justify">
-
-</p>
-##https://stunning-sopapillas-6a17de.netlify.app/ 💎
-
-<p align="center">
 
 </p>
 
