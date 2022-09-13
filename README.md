@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <br>
-  <img src="./newWave.gif.gif">
+  <img src="./newWave.gif">
   <br>
  <br>
   <img src="./logo.png">
