@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <br>
-  <img src="./Positive Vibes.gif">
+  <img src="./.gif">
   <br>
  <br>
   <img src="./logo.png">
