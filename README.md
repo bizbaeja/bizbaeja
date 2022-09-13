@@ -18,6 +18,9 @@
   <br>
   <img src="./Positive Vibes.gif">
   <br>
+ <br>
+  <img src="./logo.png">
+  <br>
 </p>
 
 목차
