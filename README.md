@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <br>
-  <img src="./.gif">
+  <img src="./파도.gif">
   <br>
  <br>
   <img src="./logo.png">
