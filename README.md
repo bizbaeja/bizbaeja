@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <br>
-  <img src="./파도.gif">
+  <img src="./newWave.gif.gif">
   <br>
  <br>
   <img src="./logo.png">
