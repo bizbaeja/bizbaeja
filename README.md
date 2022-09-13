@@ -10,21 +10,13 @@
 
 <p align="center">
 
-<p>## 구현 기능
-
-### 로그인 및 로그아웃 * 인증메일 갑니다
-
-### 댓글달기 댓글의 댓글까지!
-
-### 검색기능
-
-### 댓글 필터기능
+<p>## Comming Soon
 
 
 </p>
 <p align="center">
   <br>
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxG1zN%2FbtrLzRjAKiX%2FWeKpM4vsSHir4RUWEG6HzK%2Fimg.png">
+  <img src="./Positive Vibes.gif">
   <br>
 </p>
 
