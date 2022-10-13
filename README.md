@@ -7,9 +7,10 @@
 
 <p>
 <p>
-# Comming Soon
-</p>
+배포링크 
 
+</p>
+ <h2>https://www.hitch-hiker.kr/</h2>
 </p>
 <p align="center">
   <br>
