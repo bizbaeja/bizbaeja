@@ -1,7 +1,7 @@
 # seb39_main_006
 <div align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats&theme=dracula)
 
 </div>
