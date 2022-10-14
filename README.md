@@ -1,15 +1,18 @@
-# seb39_main_006
+# 배자현 (BAE JA HYEON)
+
+### 🌙
+
+    1. 잘만들어진 광고를 보면 어떻게 구현했을까 생각하는 사람
+    2. 운동을 중요하게 생각합니다.
+    3. 꾸준하다라는 말은 제게 최고의 칭찬입니다.
+ 
+
+<br/>
 <div align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja&show_icons=true&theme=radical)](https://github.com/bizbaeja/github-readme-stats&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bizbaeja&layout=compact&theme=dracula)](https://github.com/bizbaeja/github-readme-stats&theme=dracula)
 
-### ⭐ Front-End Developer ⭐
-
-    <h4>@</h4>
- 
-
-<br/>
 </div>
  <p align="justify">
 
