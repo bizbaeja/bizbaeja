@@ -1,7 +1,7 @@
 # seb39_main_006
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats)
 <p align="justify">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja&hide=contribs,prs)
 </p>
 <p align="center">
 
