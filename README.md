@@ -1,7 +1,7 @@
 # seb39_main_006
 <div align="center">
  
-![[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja)](https://github.com/bizbaeja/github-readme-stats)
 [!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizbaeja&hide=contribs,prs)
 
 </div>
