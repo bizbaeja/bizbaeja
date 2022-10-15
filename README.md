@@ -6,7 +6,9 @@
     2. 운동을 매일하는 사람.
     3. 꾸준하다라는 말은 제게 최고의 칭찬입니다.
  
-
+<p align="center">
+ <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdLaJHO%2FbtrOCyIv51y%2FnuHs85ZgG62d7yYgZAxrY1%2Fimg.png">
+</p>
 <br/>
 <div align="center">
  
