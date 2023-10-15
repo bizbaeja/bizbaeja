@@ -30,10 +30,6 @@
 <p align="center">
 
 <p>
-<h2>
-🌝 코드스테이츠 메인프로젝트 배포링크 
-</h2>
- <h2>https://www.hitch-hiker.kr/</h2>
 </p>
 <p align="center">
   <br>
