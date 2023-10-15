@@ -35,3 +35,5 @@
   <br>
   <img src="./realWave.gif">
   <br>
+ 
+[![알잘딱](/aljalddak.gif)]
