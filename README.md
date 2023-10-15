@@ -35,5 +35,9 @@
   <br>
   <img src="./realWave.gif">
   <br>
- 
-[![알잘딱](/aljalddak.gif)]
+
+ <div align="center">
+  
+[![알잘딱](/aljal2.gif)]
+
+ </div>
