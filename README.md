@@ -10,6 +10,7 @@
     ------------------------------------------
     🌝 블로그 : https://gitblog-two.vercel.app/
     🌖 이메일 : bizbaeja@gmail.com
+    🌝 포트폴리오 : https://portfolio-lilac-seven-80.vercel.app/
  
 
 </p>
