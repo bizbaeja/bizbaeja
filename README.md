@@ -8,7 +8,7 @@
     2. 운동을 매일하는 사람.
     3. 꾸준하다라는 말은 제게 최고의 칭찬입니다.
     ------------------------------------------
-    🌝 블로그 : [https://gitblog-two.vercel.app/](https://glowing-pegasus-93cd3c.netlify.app/)
+    🌝 블로그 : https://glowing-pegasus-93cd3c.netlify.app/
     🌖 이메일 : bizbaeja@gmail.com
     🌝 포트폴리오 : https://portfolio-lilac-seven-80.vercel.app/
  
