@@ -4,10 +4,7 @@
 
  <p align="justify">
 
-    1. 아름다운 UI를 보면 어떻게 구현했을까 생각하는 사람.
-    2. 운동을 매일하는 사람.
-    3. 꾸준하다라는 말은 제게 최고의 칭찬입니다.
-    ------------------------------------------
+
     🌝 블로그 : https://glowing-pegasus-93cd3c.netlify.app/
     🌖 이메일 : bizbaeja@gmail.com
     🌝 포트폴리오 : https://portfolio-lilac-seven-80.vercel.app/
