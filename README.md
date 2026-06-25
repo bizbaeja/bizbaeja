@@ -44,7 +44,7 @@
 - Google Play Store 출시
 
 <p>
-   <a href="[https://apps.apple.com/kr/app/screen-cleaner-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-%ED%81%B4%EB%A6%AC%EB%84%88/id6760653874](https://appstoreconnect.apple.com/apps/6762821160/distribution/ios/version/deliverable)">
+   <a href="https://apps.apple.com/kr/app/screen-cleaner-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-%ED%81%B4%EB%A6%AC%EB%84%88/id6760653874(https://appstoreconnect.apple.com/apps/6762821160/distribution/ios/version/deliverable)">
     <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.aeong.dduru">
