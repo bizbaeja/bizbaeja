@@ -44,7 +44,8 @@
 - Google Play Store 출시
 
 <p>
-   <a href="https://apps.apple.com/kr/app/screen-cleaner-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-%ED%81%B4%EB%A6%AC%EB%84%88/id6760653874(https://appstoreconnect.apple.com/apps/6762821160/distribution/ios/version/deliverable)">
+   <a href="https://apps.apple.com/kr/app/%EB%9A%9C%EB%B0%A9%EC%9E%A5%EC%9D%98-%EC%B9%B4%ED%86%A1%EB%B6%84%EC%84%9D%EA%B8%B0/id6762821160
+뚜방장의 카톡분석기">
     <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.aeong.dduru">
